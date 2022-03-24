@@ -1,5 +1,3 @@
 # Password-Generator
 ### Der ganze Code wurde mit HTML, CSS und Java script geschrieben.
-Als weiter Entwicklung der vorherigen Projekt haben ich und eine Redischoolgruppe zusammen arbeiten um das Passwort mit HTML und CSS umzusetzen und realisieren
-Der Code wurde so angepasst dass man das Passwort noch genauer bestimmen kann, der Nutzer kann beliebig entweder kleine oder  große Buchstaben, symbols oder Zahlen auswählen. 
-Was es noch an dem Code erweitert wurde ist dass man das Passwort kopieren kann.
+Als Weiterentwicklung des vorherigen Abschlussprojektes bei ReDI habe ich zusammen mit einer Kollegin das ursprüngliche Layout nun in HTML und CSS umgesetzt. Die ursprüngliche Funktion des Passwort-Generators in Python wurde ersetzt durch Javascript. Dabei wurde darauf geachtet, dass man das Passwort noch genauer bestimmen kann. Der Nutzer kann nun beliebig entweder kleine oder große Buchstaben oder Symbole oder auch Zahlen auswählen, damit wird das Passwort deutlich sicherer. Anschließend kann das generierte Passwort in die Zwischenablage kopiert werden zur weiteren Verwendung.
